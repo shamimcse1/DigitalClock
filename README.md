@@ -1,4 +1,4 @@
-# DigitalClock
+# Digital Clock
 This is Simple Digital Clock Python Project
 
 
